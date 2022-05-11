@@ -1,2 +1,2 @@
-# erleti
+# Erleti
 Market Signal Alerting Website 
